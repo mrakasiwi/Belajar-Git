@@ -1,1 +1,1 @@
-Ini repository untuk workshop git 
+Ini repository untuk workshop git untuk belajar
